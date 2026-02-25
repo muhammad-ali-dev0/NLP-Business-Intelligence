@@ -7,13 +7,13 @@
 
 > End-to-end NLP pipeline that transforms 2,000 product reviews into actionable executive intelligence — with sentiment analysis, topic modeling, semantic embeddings, and quantified business impact.
 
-**[▶ Live Demo →](https://github.com/muhammad-ali-dev0/NLP-Business-Intelligence/dashboard_preview.html)** *(open in browser)*
+**[▶ Live Demo →](https://muhammad-ali-dev0.github.io/NLP-Business-Intelligence/dashboard_preview.html)** *(open in browser)*
 
 ---
 
 ## 🎯 Business Problem
 
-A $50M e-commerce business receives 2,000+ product reviews/month across 5 categories. Manual review is impossible. The CEO needs:
+A $50M e-commerce business receives 2,000+ product reviews/month across 5 categories. Manual review is impossible:
 - Which product areas are generating negative sentiment?
 - Is sentiment improving or deteriorating?
 - What's the financial impact of the top complaints?
